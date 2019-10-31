@@ -2,3 +2,5 @@
 .DS_Store
 vcx.xml
 misc.xml
+nuxt/node_modules
+laravel/vendor
